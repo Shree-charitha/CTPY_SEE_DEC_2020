@@ -34,3 +34,29 @@ This is repository for Python code.(5th answer)
         else:
             data1[k] = v2
     return dupKeys
+    
+    5(c)--test case1
+    4
+    1  2
+    3  3
+    3  8
+    4  9
+    
+    2
+    3  3
+    4  4
+    
+    test case 2
+    4
+    1  2
+    2  2
+    3  3
+    4  19
+    
+    2
+    3  3
+    4  19
+    test case 3
+    the test case written in 5a , which breaks the intially written code can be written.
+  
+ 
